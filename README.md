@@ -8,3 +8,5 @@ This is based on the tutorial
 https://www.youtube.com/watch?v=4njnviuvt1Q&index=6&list=PLRtjMdoYXLf6mvjCmrltvsD0j12ZQDMfE
 and the three.js website 
 https://threejs.org/
+
+![](https://github.com/patrinoua/dudetopia/blob/master/DudetopiaScreenshot.png)
